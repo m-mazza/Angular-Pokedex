@@ -6,6 +6,7 @@
  • <a href="#-autor">Autor</a> </br>
 </div>
 
+
 ## Sobre o projeto
 
 Pokedex é um projeto desenvolvido com Angular visando colocar em prática os conceitos inicias do aprendizado do framework.
@@ -14,7 +15,6 @@ Pokedex é um projeto desenvolvido com Angular visando colocar em prática os co
 <div align="center">
   <img src="pokedex-angular.gif">
 </div>
-
 
 
 ## Tecnologias
